@@ -1,6 +1,6 @@
-# Notes_App
+# To-Do_App
 
-A Flutter notes app using firebase.
+A Flutter notes To-Do app using firebase.
 
 To run the app, type the following commands on the terminal <br>
 $flutter clean <br>
