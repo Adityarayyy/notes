@@ -2,6 +2,11 @@
 
 A Flutter notes app using firebase.
 
+To run the app, type the following commands on the terminal
+$flutter clean
+$flutter pub get
+$flutter run
+
 Screenshots- 
 ![WhatsApp Image 2024-05-15 at 23 34 12_302d13db](https://github.com/Adityarayyy/notes/assets/126897623/1040c3c4-ada8-4fde-90ce-77b38468e057)
 
