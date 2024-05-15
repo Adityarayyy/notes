@@ -2,7 +2,7 @@
 
 A Flutter notes app using firebase.
 
-To run the app, type the following commands on the terminal
+To run the app, type the following commands on the terminal <br>
 $flutter clean <br>
 $flutter pub get <br>
 $flutter run <br>
