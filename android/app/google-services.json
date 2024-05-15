@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936845927498",
+    "project_id": "heepmee-7ade2",
+    "storage_bucket": "heepmee-7ade2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936845927498:android:a3ed51cc5b6bb06c9c32b3",
+        "android_client_info": {
+          "package_name": "com.example.heepme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzF0hirR0OYASwaWtE7lNETk40nMpnqUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
