@@ -1,6 +1,6 @@
-# heepme
+# Notes_App
 
-A new Flutter project.
+A Flutter notes app using firebase.
 
 ## Getting Started
 
